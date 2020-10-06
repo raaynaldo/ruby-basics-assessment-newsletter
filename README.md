@@ -123,3 +123,5 @@ Once you have cleaned up your solution to your satisfaction, commit again and su
 3. Correct syntax and logic for either arrays and hashes or enumerable methods.
 4. Correct syntax and logic for array and hash manipulation and enumerable methods. Selection of enumerable methods may not be suitable or natural for the task. For example, uses `each` where `filter` would be appropriate.
 5. Correct syntax and logic for array and hash manipulation and enumerable methods and appropriate selection of enumerable methods for given task.
+
+[![Run on Repl.it](https://repl.it/badge/github/raaynaldo/ruby-basics-assessment-newsletter)](https://repl.it/github/raaynaldo/ruby-basics-assessment-newsletter)
